@@ -666,3 +666,9 @@ a.dotted-link:hover {
     max-width: inherit;
   }
 }
+
+/* Modifications by Ismael Rumzan */
+.img-rounded {
+  border-radius: 50%;
+  width: 15em;
+}
